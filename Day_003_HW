@@ -1,0 +1,6 @@
+【專案目標】
+辨識影片或照片中相似的動作(姿勢)
+【使用技術】
+“View-Invariant Probabilistic Embedding for Human Pose” (Pr-VIPE)
+【資料來源】
+https://ai.googleblog.com/2021/01/recognizing-pose-similarity-in-images.html
